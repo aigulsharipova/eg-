@@ -25,7 +25,7 @@ function App() {
   return (
     <section className="app">
       <div className="container">
-        <h1 className="text-center mb-3 app__title">User Table</h1>
+        <h1 className="text-center mb-3 app__title">Users</h1>
           <TableUser users={data}></TableUser>
       </div>
     </section>
